@@ -1,0 +1,21 @@
+#title_app{
+    font-weight: bold;
+    margin: auto;
+    color:#636b6f;
+    text-align: center;
+    font-size: 20px;
+}
+#closeablecard
+{
+    background-color: gainsboro;
+}
+.card-text{
+    display: inline-block;
+}
+.flag{
+    max-width: 80%;
+}
+.close{
+    color: red;
+}
+
