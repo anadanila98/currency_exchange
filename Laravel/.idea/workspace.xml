@@ -19,6 +19,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
       <path value="$PROJECT_DIR$/vendor/nikic/php-parser" />
@@ -123,6 +126,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1xDHGf1mZ6i8dklOlt5aqnrUTMt" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -167,7 +171,7 @@
       <workItem from="1630239167212" duration="3086000" />
       <workItem from="1630300467648" duration="23963000" />
       <workItem from="1630334390484" duration="5993000" />
-      <workItem from="1630393645747" duration="2332000" />
+      <workItem from="1630393645747" duration="3594000" />
     </task>
     <servers />
   </component>
@@ -183,6 +187,14 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="549" y="167" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1629885944887" />
+    <state x="645" y="314" key="Github.ShareDialog" timestamp="1630404943562">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="645" y="314" key="Github.ShareDialog/0.0.1536.824@0.0.1536.824" timestamp="1630404943562" />
+    <state x="542" y="35" key="Github.UntrackedFilesDialog" timestamp="1630404951700">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="542" y="35" key="Github.UntrackedFilesDialog/0.0.1536.824@0.0.1536.824" timestamp="1630404951700" />
     <state x="604" y="331" key="NewPhpFileDialog" timestamp="1630160426130">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
